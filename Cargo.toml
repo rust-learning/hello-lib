@@ -1,0 +1,6 @@
+[package]
+name = "hello-lib"
+version = "0.1.0"
+authors = ["greatdreams <871155310@qq.com>"]
+
+[dependencies]
